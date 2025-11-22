@@ -1,4 +1,6 @@
-export const dynamic = "force-dynamic";
+export const config = {
+  unstable_runtimeJS: true,
+};
 
 import Head from 'next/head'
 import siteMetadata from '@/data/siteMetadata'
