@@ -114,7 +114,7 @@ const siteMetadata = {
         description:
           'Studied core engineering subjects including structural analysis, geotechnical engineering, transportation systems, and environmental engineering.',
         startDate: '2015',
-        endDate: '2019',
+        endDate: '2020',
       },
     ],
   },
