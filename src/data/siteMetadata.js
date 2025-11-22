@@ -105,16 +105,16 @@ const siteMetadata = {
         degree: 'Master of Science in Civil Engineering',
         description:
           'Focused on construction engineering and structural systems, with hands-on experience in design, materials, and modern engineering technologies.',
-        startDate: '2022',
-        endDate: '2024',
+        startDate: '2023',
+        endDate: '2025',
       },
       {
         schoolName: 'JNTU Hyderabad',
         degree: 'Bachelor of Civil Engineering',
         description:
           'Studied core engineering subjects including structural analysis, geotechnical engineering, transportation systems, and environmental engineering.',
-        startDate: '2017',
-        endDate: '2021',
+        startDate: '2015',
+        endDate: '2019',
       },
     ],
   },
