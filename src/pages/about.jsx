@@ -10,7 +10,10 @@ export default function About() {
     <>
       <Head>
         <title>About – {siteMetadata.author}</title>
-        <meta name="description" content="About Vamshi Kothuru – Civil Engineer specializing in construction, structural planning, and project execution." />
+        <meta 
+          name="description" 
+          content="About Vamshi Kothuru – Civil Engineer specializing in construction, structural planning, and project execution." 
+        />
       </Head>
 
       <Container className="mt-24 sm:mt-36">
@@ -23,7 +26,7 @@ export default function About() {
             </h1>
 
             <p className="text-lg leading-relaxed text-primaryText-700 dark:text-primaryText-400">
-              I'm <span className="font-semibold text-primaryText-900 dark:text-white">Vamshi Kothuru</span>, 
+              I&apos;m <span className="font-semibold text-primaryText-900 dark:text-white">Vamshi Kothuru</span>, 
               a civil engineer with a strong foundation in construction engineering, 
               structural design, and project planning. I am driven by the challenge of 
               converting engineering principles into safe, realistic, and high-quality 
@@ -38,13 +41,13 @@ export default function About() {
 
             <div className="p-6 rounded-2xl bg-primaryText-50 dark:bg-primaryText-900/20 shadow-sm border border-primaryText-200/50 dark:border-primaryText-700/40">
               <h3 className="text-xl font-semibold text-primaryText-900 dark:text-primaryText-100 mb-2">
-                Areas I’m Passionate About
+                Areas I&apos;m Passionate About
               </h3>
               <ul className="list-disc pl-6 space-y-2 text-primaryText-700 dark:text-primaryText-400">
-                <li>Structural & foundation design</li>
-                <li>Construction planning & execution</li>
+                <li>Structural &amp; foundation design</li>
+                <li>Construction planning &amp; execution</li>
                 <li>Building materials and testing</li>
-                <li>BIM workflows & project coordination</li>
+                <li>BIM workflows &amp; project coordination</li>
                 <li>Efficient, sustainable design practices</li>
               </ul>
             </div>
