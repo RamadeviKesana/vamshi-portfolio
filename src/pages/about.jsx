@@ -12,7 +12,7 @@ export default function About() {
         <title>About – {siteMetadata.author}</title>
         <meta 
           name="description" 
-          content="About Vamshi Kothuru – Civil Engineer specializing in construction, structural planning, and project execution." 
+          content="About Vamshi Kothuru &ndash; Civil Engineer specializing in construction, structural planning, and project execution." 
         />
       </Head>
 
@@ -35,7 +35,7 @@ export default function About() {
 
             <p className="text-lg leading-relaxed text-primaryText-700 dark:text-primaryText-400">
               With hands-on experience in field coordination, structural analysis, 
-              and planning workflows, I enjoy bridging design concepts with onsite execution — 
+              and planning workflows, I enjoy bridging design concepts with onsite execution &mdash; 
               ensuring that every project meets performance, safety, and sustainability standards.
             </p>
 
