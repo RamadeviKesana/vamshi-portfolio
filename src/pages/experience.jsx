@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Head from 'next/head'
 import siteMetadata from '@/data/siteMetadata'
 import { Container } from '@/components/Container'
